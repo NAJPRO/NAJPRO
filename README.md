@@ -125,7 +125,6 @@ const audin = {
 
 </div>
 
-> 💡 **Astuce** : Remplace `nom-du-projet-1` et `nom-du-projet-2` par tes vrais noms de dépôts pour afficher tes projets phares !
 
 ---
 
